@@ -1,0 +1,6 @@
+{
+  "name": "ADMET AI Research Pipeline",
+  "description": "A multimodal AI pipeline for predicting ADMET properties with Explainable AI (SHAP/LIME) and biological interpretation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
